@@ -4,13 +4,18 @@ A list of good interview questions for JavaScript candidate.
 JavaScript
 ----------
 - What are the differences between arrow function and regular function?
-- What is the difference between `__proto__` and prototype?
-- What are constructor function in javascript.
+- What is a callback function? Explain with an example
+- How to convert a callback function into a promise?
+- Can we call a function with callback as well as a promise? If yes, how?
+- What are the differences between `__proto__` and prototype?
+- What is constructor function in javascript?
 - What do you understand by object reference?
 - How to shallow copy an object?
 - How to deep copy an object?
 - What is the use of `Object.assign` method?
 - What is the use of `Object.create` method?
+
+- Call vs bind vs apply?
 - What are common ES6 methods for working with arrays?
     - find
     - filter
@@ -30,13 +35,15 @@ conts response = await doSomething(user, organization, callRates);
 
 Node
 ----
+- What is the difference betwen `import` and `require` when importing modules?
 - What are streams in nodejs?
-- What is a callback function? Explain with an example
 - How to clear require cache?
-- Call vs bind vs apply?
+
 
 HTML 5
 ------
 - What is intersection observer?
 - What is a service worker?
 - What is mutation observer?
+- What is localStorage?
+- What is sessionStorage?
