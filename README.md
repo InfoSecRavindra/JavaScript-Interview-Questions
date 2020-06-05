@@ -4,7 +4,7 @@ A list of good interview questions for JavaScript candidate.
 JavaScript
 ----------
 - What are the differences between arrow function and regular function?
-- What is the difference between __proto__ and prototype?
+- What is the difference between `__proto__` and prototype?
 - What are constructor function in javascript.
 - What do you understand by object reference?
 - How to shallow copy an object?
